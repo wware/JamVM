@@ -1,6 +1,9 @@
 JamVM 1.5.4
 ===========
 
+Here is some discussion of building JamVM for the ARM architecture.
+http://www.openmuc.org/index.php?id=17
+
 Welcome to the twenty-seventh release of JamVM!
 
 JamVM is a Java Virtual Machine which conforms to the JVM
